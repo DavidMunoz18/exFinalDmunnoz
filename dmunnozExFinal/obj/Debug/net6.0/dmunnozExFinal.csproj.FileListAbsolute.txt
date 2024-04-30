@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\bin\Debug\net6.0\dmunnozExFinal.exe
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\bin\Debug\net6.0\dmunnozExFinal.deps.json
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\bin\Debug\net6.0\dmunnozExFinal.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\bin\Debug\net6.0\dmunnozExFinal.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\bin\Debug\net6.0\dmunnozExFinal.pdb
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\refint\dmunnozExFinal.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.pdb
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\dmunnozExFinal.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnozExFinal\obj\Debug\net6.0\ref\dmunnozExFinal.dll
