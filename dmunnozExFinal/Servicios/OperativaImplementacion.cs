@@ -49,6 +49,8 @@ namespace dmunnozExFinal.Servicios
 
                         cita.AsistenciaCita = true;
                         Console.WriteLine("Espere su turno para la consulta de Psicología en la sala de espera. Su especialista le avisará");
+                    }else{
+                    Console.WriteLine("No dispone de cita previa para hoy");
                     }
 
                 }
